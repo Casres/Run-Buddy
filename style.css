@@ -1,0 +1,20 @@
+
+
+
+
+header, body {
+    padding: 20px 35px 20px 35px;
+    background-color: #39a6b2;
+  }
+
+  h1, body a {
+      color: yellow;
+  }
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: tomato;
+    color: tomato;
+  }
+  
+  
