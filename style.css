@@ -64,18 +64,18 @@
     height: 738px;
     background-size: cover;
     background-position: center;
+    position: relative;
   }
 
   .hero-form{
+    border: #024e76 solid 8px;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
-
     /*this is for the text*/
     color: #024e76;
-    
-    border: #024e76 solid 8px;
     position: absolute;
-    bottom: 800px;
-    right: 30px;
+    bottom: 120px;
+    right: 140px;
+    margin: 5px 0 15px 0;
   } 
