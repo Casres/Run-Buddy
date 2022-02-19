@@ -58,6 +58,18 @@ body {
   footer a {
     color: #024e76;
   }
+
+  .hero {
+    padding: 60px;
+    background-image: url(./hero-bg.jpeg);
+    height: 738px;
+  }
+
+  section div{
+    float: right;
+    background-color: #fce138;
+    border: #024e76 solid 3px;
+  }
   
 
   
