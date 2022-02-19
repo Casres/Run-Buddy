@@ -6,7 +6,7 @@
 }
 
 
-header {
+  header {
     padding: 20px 35px;
     background-color: #39a6b2;
   }
@@ -39,7 +39,7 @@ header {
       font-size: 22px;
   }
 
-body {
+  body {
     font-family: Helvetica, Arial, sans-serif;
     color: #39a6b2;
   }
@@ -60,17 +60,22 @@ body {
   }
 
   .hero {
-    padding: 60px;
     background-image: url(./hero-bg.jpeg);
     height: 738px;
+    background-size: cover;
+    background-position: center;
   }
 
-  section div{
-    float: right;
+  .hero-form{
     background-color: #fce138;
-    border: #024e76 solid 3px;
-  }
-  
+    padding: 20px;
+    width: 500px;
 
-  
-  
+    /*this is for the text*/
+    color: #024e76;
+    
+    border: #024e76 solid 8px;
+    position: absolute;
+    bottom: 800px;
+    right: 30px;
+  } 
