@@ -60,14 +60,14 @@
   }
 
   .hero {
-    background-image: url(./hero-bg.jpeg);
+    background-image: url(../images/hero-bg.jpeg);
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
   }
 
-  .hero-form{
+  .hero-form {
     border: #024e76 solid 6px;
     background-color: #fce138;
     padding: 20px;
@@ -88,9 +88,6 @@
     margin: 5px 0 15px 0;
   }
 
-  .hero-form label {
-    margin: 0px 15px;
-  }
   .hero-form button {
     color: #fce138;
     background-color: #024e76;
