@@ -60,7 +60,7 @@
   }
 
   .hero {
-    background-image: url(../images/hero-bg.jpeg);
+    background-image: url(../images/hero-bg.jpeg); 
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -104,4 +104,4 @@
     color: #024e76;
     width: 100%;
     margin-bottom: 15px;
-  }
+  } 
