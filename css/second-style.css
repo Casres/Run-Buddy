@@ -1,0 +1,56 @@
+.hero {
+    background-position: bottom;
+    height: 300px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.page-title {
+    font-size: 42px;
+    font-style: italic;
+    font-weight: normal;
+    color: #fce138;
+    display: inline-block;
+    padding: 13px 40px 9px 40px;
+    border-bottom: #fce138 solid 2px;
+}
+
+.secondary-content {
+    width: 80%;
+    margin: auto;
+    color: #024e76;
+    font-size: 16px;
+    line-height: 1.5;
+   
+}
+
+.secondary-content h3 {
+    font-size: 25px;
+    text-align: center;
+    /* margin: 20px; */
+    /* I think that it looks better this way, but I get what the goal is, thank you for that =) */
+}
+
+/* .secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+} */
+
+/* I wanteed to combine secondary-content and secondary-content p, becasue I like the way it looked better. 
+it look more appealing to the eyes and the different color of the <h3> words just didn't look nice and 
+felt like it looked like it was trying too hard to be flashy and standing out saying"hey look im a header 
+and or title!" I think that the boldness of it was more than suffice. But I got the idea and lesson so thank you */
+
+/* P.S. I also like the 1.5 line spacing on the paragraph headers, the <h3> elements */
+
+/* thank you =) */
+
+.secondary-content ul {
+    margin: 15px; 
+}
+
+.secondary-content li {
+    color: #39a6b2;
+    margin: 10px;
+    line-height: 1;
+}
