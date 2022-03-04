@@ -145,8 +145,8 @@
 /* What You Do section */
 
   .intro {
-    text-align: center;
-    margin: 50px;
+    /* text-align: center;
+    margin: 50px; */
   }
 
   .intro p {
@@ -155,10 +155,11 @@
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
   }
 
   .steps {
-    text-align: center;
+    /* text-align: center; */
     background: #fce138;
     padding: 20px 0px 20px 0px;
     
@@ -167,10 +168,14 @@
   .section-title {
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
+    /* margin-bottom: 35px; */
+    /* padding: 0 100px 20px 100px; */
+    /* display: inline-block; */
     border-bottom: 3px solid #fce138;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
   }
   
   .primary-border {
@@ -206,7 +211,7 @@
   }
 
   .trainers {
-    text-align: center;
+    /* text-align: center; */
     margin-top: 20px;
   }
 
@@ -262,7 +267,7 @@
   .contact {
     background-color: #024e76;
     color: #39a6b2;
-    text-align: center;
+    /* text-align: center; */
     padding: 20px 0px 20px 0px;
   }
 
@@ -304,3 +309,6 @@
     color: #fce138;
   }
 
+  .flex-row {
+    display: flex;
+  }
